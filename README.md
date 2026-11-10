@@ -105,6 +105,7 @@ Udemy offers an official Udemy Business connector for Claude, focused on learnin
 
 - [Udemy on Cotlet.dev](https://cotlet.dev/integrations/udemy-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=udemy&utm_content=find)
 - [PyPI package udemy-mcp](https://pypi.org/project/udemy-mcp/)
+- [Odel](https://odel.app/modules/cotlet/udemy)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-udemy-to-ai-agents-guide)
 
 ## Also works with
